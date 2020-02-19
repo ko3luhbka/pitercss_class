@@ -17,6 +17,7 @@ body {
 
 .half-screen {
   width: 50%;
+  margin-right: 5%;
 }
 
 .text {
@@ -62,7 +63,6 @@ p {
   width: 285px;
   height: 65px;
   font-size: 22px;
-  vertical-align: middle;
   }
 
 .user p {
@@ -84,6 +84,10 @@ p {
 
 .placeholder-hero {
     margin-right: -125px;
+}
+
+.placeholder-about {
+  margin-right: 5%;
 }
 
 @font-face {
